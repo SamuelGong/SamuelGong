@@ -6,6 +6,6 @@ Aside researching, I maintain a few open-source projects, see below for more det
 
 ![Metrics](https://github.com/SamuelGong/SamuelGong/blob/main/github-metrics.svg)
 
-**Page Views**
+**Page Viewed By**
 
 ![Page Views](https://steins-gate-visitor-count.greenhandatsjtu.repl.co/SamuelGong)]
