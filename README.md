@@ -8,4 +8,4 @@ Aside researching, I maintain a few open-source projects, see below for more det
 
 **Page Viewed By**
 
-![Page Views](https://steins-gate-visitor-count.greenhandatsjtu.repl.co/SamuelGong)]
+![Page Views](https://steins-gate-visitor-count.greenhandatsjtu.repl.co/SamuelGong)
