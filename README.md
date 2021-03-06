@@ -4,7 +4,7 @@
 
 <p align="center">Aside researching, I maintain a few open-source projects, see below for more details.</p>
 
-<p align="center"><img width=500 src="https://github.com/SamuelGong/SamuelGong/blob/main/github-metrics.svg"></p>
+<p align="center"><img width=500 src="https://github.com/SamuelGong/SamuelGong/blob/master/github-metrics.svg"></p>
 
 <p align="center">Page Viewed By</p>
 
