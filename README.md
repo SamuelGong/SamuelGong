@@ -1,11 +1,11 @@
 # Zhifeng Jiang
 
-Hi, I'm Zhifeng Jiang, a PhD student at HKUST, doing research on federated learning systems.
+<p align="center">Hi, I'm Zhifeng Jiang, a PhD student at HKUST, doing research on federated learning systems.</p>
 
-Aside researching, I maintain a few open-source projects, see below for more details.
+<p align="center">Aside researching, I maintain a few open-source projects, see below for more details.</p>
 
-![Metrics](https://github.com/SamuelGong/SamuelGong/blob/main/github-metrics.svg)
+<p align="center"><img width=500 src="https://github.com/SamuelGong/SamuelGong/blob/main/github-metrics.svg"></p>
 
-**Page Viewed By**
+<p align="center">Page Viewed By</p>
 
-![Page Views](https://steins-gate-visitor-count.greenhandatsjtu.repl.co/SamuelGong)
+<p align="center"><img width=500 src="https://steins-gate-visitor-count.greenhandatsjtu.repl.co/SamuelGong"></p>
