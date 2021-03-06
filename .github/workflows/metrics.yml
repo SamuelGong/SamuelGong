@@ -3,12 +3,12 @@ name: Metrics
 on:
   # Schedule updates
   schedule: [{cron: "0 12 * * *"}]
-  push: {branches: ["master", "main"]}
+  push: {branches: ["master"]}
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: SamuelGong/metrics@master
+      - uses: SamuelGong/metrics@latest
         with:
           # You'll need to setup a personal token in your secrets.
           token: ${{ secrets.METRICS_TOKEN }}
@@ -23,9 +23,4 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           plugin_languages: yes
-          plugin_habits: yes
-          plugin_habits_from: 1000
-          plugin_habits_days: 30
-          plugin_habits_charts: yes
-          plugin_habits_facts: no
           plugin_stargazers: no
